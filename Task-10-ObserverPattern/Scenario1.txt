@@ -1,0 +1,6 @@
+How would you implement the Observer Pattern to ensure that when any of the weather sensors detect a significant change in weather conditions, 
+all relevant components within the smart home, 
+such as a weather display on a user interface and 
+an HVAC system controller, are notified and can respond accordingly?
+
+
